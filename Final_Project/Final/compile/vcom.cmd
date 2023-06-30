@@ -1,0 +1,1 @@
+-w -erf "Z:/Apps/ActiveHdl store/Final_Project/Final/compile/Final.erf" -d "Z:/Apps/ActiveHdl store/Final_Project/Final/compile" -s "Z:/Apps/ActiveHdl store/Final_Project/Final/library.cfg" -j "Z:/Apps/ActiveHdl store/Final_Project/Final/projlib.cfg" -work Final -O3 -e 100 -work Final -2002 "Z:/Apps/ActiveHdl store/Final_Project/Final/src/TestBench/mainn_TB.vhd" 

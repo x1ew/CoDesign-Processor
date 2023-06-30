@@ -1,0 +1,45 @@
+Active-HDL 13.0.375.8320 2023-06-30 15:22:39
+
+Elaboration top modules:
+VHDL Configuration            testbench_for_mainn
+
+
+--------------------------------------------------------------------------------------------------
+Entity       | Architecture    | Library | Info | Compiler Version          | Compilation Options
+--------------------------------------------------------------------------------------------------
+mainn_tb     | TB_ARCHITECTURE | final   |      | 13.0.375.8320 (Windows64) | -O3
+Mainn        | Mainn           | final   |      | 13.0.375.8320 (Windows64) | -O3
+Reg          | Reg             | final   |      | 13.0.375.8320 (Windows64) | -O3
+PC_Register  | PC_Register     | final   |      | 13.0.375.8320 (Windows64) | -O3
+Ins_Register | Ins_Register    | final   |      | 13.0.375.8320 (Windows64) | -O3
+Memory       | Memory          | final   |      | 13.0.375.8320 (Windows64) | -O3
+ALU          | ALU             | final   |      | 13.0.375.8320 (Windows64) | -O3
+Control_unit | Control_unit    | final   |      | 13.0.375.8320 (Windows64) | -O3
+--------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------
+VHDL Configuration             | Library | Info | Compiler Version          | Compilation Options
+--------------------------------------------------------------------------------------------------
+testbench_for_mainn            | final   |      | 13.0.375.8320 (Windows64) | -O3
+--------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------
+VHDL Package                   | Library | Info | Compiler Version          | Compilation Options
+--------------------------------------------------------------------------------------------------
+standard                       | std     |      |                           | <unavailable>
+TEXTIO                         | std     |      | 13.0.375.8320 (Windows64) |  -2019
+std_logic_1164                 | ieee    |      | 13.0.375.8320 (Windows64) |  -2008
+NUMERIC_STD                    | ieee    |      | 13.0.375.8320 (Windows64) |  -2008
+--------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------
+Library                        | Comment
+--------------------------------------------------------------------------------------------------
+final                          | None
+ieee                           | Standard IEEE packages library
+std                            | Standard VHDL library
+--------------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim +access +r TESTBENCH_FOR_mainn
+

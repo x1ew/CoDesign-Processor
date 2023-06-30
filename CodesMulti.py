@@ -25,7 +25,7 @@ for i in inputs:
         if i.lower() == 'hlt':
             opcode = 'hlt'
         else:
-            print('ajghal')
+            print('Nothing')
     if lable != None:
         lable = lable[:-1]
         dict[lable] = len(outputs)

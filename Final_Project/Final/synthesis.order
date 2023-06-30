@@ -1,0 +1,14 @@
+i<>.\src\Ins_Register.vhd
+i<>.\src\PC_Register.vhd
+i<>.\src\ALU.vhd
+i<>.\src\Memory.vhd
+i<>.\src\Control_unit.vhd
+i<>.\src\Mainn.vhd
+i<>.\src\Reg.vhd
+i<>.\src\TestBench\reg_TB.vhd
+i<>.\src\TestBench\ins_register_TB.vhd
+i<>.\src\TestBench\alu_TB.vhd
+i<>.\src\TestBench\memory_TB.vhd
+i<>.\src\TestBench\pc_register_TB.vhd
+i<>.\src\TestBench\control_unit_TB.vhd
+i<>.\src\TestBench\mainn_TB.vhd

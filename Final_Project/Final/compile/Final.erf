@@ -1,0 +1,6 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: Z:/Apps/ActiveHdl store/Final_Project/Final/src/TestBench/mainn_TB.vhd" 
+MESSAGE "Compile Entity "mainn_tb"" 
+MESSAGE "Compile Architecture "TB_ARCHITECTURE" of Entity "mainn_tb"" 
+MESSAGE "Compile Configuration "TESTBENCH_FOR_mainn"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]" 

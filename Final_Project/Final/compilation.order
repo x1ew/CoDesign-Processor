@@ -1,0 +1,14 @@
+.\src\Reg.vhd
+.\src\Ins_Register.vhd
+.\src\PC_Register.vhd
+.\src\ALU.vhd
+.\src\Memory.vhd
+.\src\Control_unit.vhd
+.\src\Mainn.vhd
+.\src\TestBench\reg_TB.vhd
+.\src\TestBench\ins_register_TB.vhd
+.\src\TestBench\alu_TB.vhd
+.\src\TestBench\memory_TB.vhd
+.\src\TestBench\pc_register_TB.vhd
+.\src\TestBench\control_unit_TB.vhd
+.\src\TestBench\mainn_TB.vhd

@@ -1,0 +1,15 @@
+[Files List]
+Z:\Apps\ActiveHdl\vlib\std/src/standard.vhd=S
+Z:\Apps\ActiveHdl\vlib\std/src/textio.vhd=S
+Z:\Apps\ActiveHdl\vlib\ieee/src/std_logic_1164.vhdl=S
+Z:\Apps\ActiveHdl\vlib\ieee/src/std_logic_1164-body.vhdl=S
+Z:\Apps\ActiveHdl\vlib\ieee/src/numeric_std.vhdl=S
+Z:\Apps\ActiveHdl\vlib\ieee/src/numeric_std-body.vhdl=S
+Z:\Apps\ActiveHdl store\Final_Project\Final/src/Control_unit.vhd=S
+Z:\Apps\ActiveHdl store\Final_Project\Final/src/ALU.vhd=S
+Z:\Apps\ActiveHdl store\Final_Project\Final/src/Memory.vhd=S
+Z:\Apps\ActiveHdl store\Final_Project\Final/src/Ins_Register.vhd=S
+Z:\Apps\ActiveHdl store\Final_Project\Final/src/PC_Register.vhd=S
+Z:\Apps\ActiveHdl store\Final_Project\Final/src/Reg.vhd=S
+Z:\Apps\ActiveHdl store\Final_Project\Final/src/Mainn.vhd=S
+Z:\Apps\ActiveHdl store\Final_Project\Final/src/TestBench/mainn_TB.vhd=S
